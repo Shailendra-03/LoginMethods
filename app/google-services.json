@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80218199451",
+    "project_id": "loginmethodstest",
+    "storage_bucket": "loginmethodstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80218199451:android:28c3b0dea2150ee11f3d3e",
+        "android_client_info": {
+          "package_name": "com.company.loginmethodstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80218199451-6th3f9kiri3dol1u5uciobsvt41f8nqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.loginmethodstest",
+            "certificate_hash": "9cad3e4a6eada73557b72c082643ec7c2c927d95"
+          }
+        },
+        {
+          "client_id": "80218199451-pfkljkdqatls3pu6frk89tde3qhlrtvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBom2UVmNY-1iPgh3kYXBr6Feq0njAhzv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80218199451-pfkljkdqatls3pu6frk89tde3qhlrtvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
